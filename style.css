@@ -1,0 +1,425 @@
+@charset "UTF-8";
+body{
+    background-color: #22212C;
+    color: #837E9F;
+    font-weight: 400;
+    font-family: 'Lato', sans-serif;
+    overflow-x: hidden;
+}
+
+.perfil{
+    position: relative;
+    background-color: #302F3D;
+    border-radius: 8%;
+    height: 200px;
+    width: 220px;
+    top: 20px;
+    left: 15px;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2);
+
+}
+.texto{
+    position: relative;
+    left: 23%;
+    top: 10%;
+}
+.tipo{
+    position: relative;
+    left: 35%;
+    top: 1%;
+    font-size: small;
+
+}
+.picture{
+    position: relative;
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    top: 10%;
+    left: 30%;
+    overflow:hidden;
+    padding: auto;
+    border: 2px solid rgb(81, 250, 81);
+
+}
+.box1{
+    position: absolute;
+    background-color: #302F3D;
+    width: 1000px;
+    height: 50px;
+    left: 320px;
+    top: 30px;
+    border-radius: 15px;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2);
+
+}
+.nome1{
+    position: absolute;
+    font-size: 15px;
+    left: 350px;
+    top: 23px;
+
+}
+.nome2{
+    position: absolute;
+    font-size: 13px;
+    left: 1200px;
+    top: 35px;
+}
+.boxarq1{
+    position: absolute;
+    background-color: #302F3D;
+    width: 495px;
+    height: 120px;
+    left: 315px;
+    top: 100px;
+    border-radius: 15px;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2);
+}
+.boxaq2{
+    position: absolute;
+    background-color: #302F3D;
+    width: 495px;
+    height: 120px;
+    left: 822px;
+    top: 100px;
+    border-radius: 15px;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2);
+}
+.type1{
+    position: absolute;
+    font-size: 12px;
+    left: 380px;
+    top: 110px;
+}
+.phrase1{
+    position: absolute;
+    left: 345px;
+    top: 150px;
+    font-size: 8px;
+}
+.ball{
+    position: absolute;
+    left: 720px;
+    top: 193px;
+    width: 13px;
+    height: 13px;
+    background-color: rgb(224, 224, 143);
+    border-radius: 50%;
+    border: 1px solid rgb(112, 70, 160);
+    padding: auto;
+}
+.JS1{
+    position: absolute;
+    left: 740px;
+    top: 194px;
+    font-size: 13px;
+
+}
+.iconfolder1{
+    position: absolute;
+    left: 345px;
+    top: 121px;
+}
+.iconstar{
+    position: absolute;
+    left: 341px;
+    top: 190px;
+}
+.iconcabo{
+    position: absolute;
+    left: 400px;
+    top: 190px;
+}
+.number-1{
+    position: absolute;
+    left: 371px;
+    top: 180px;
+    font-size: 15px;
+}
+.number-2{
+    position: absolute;
+    left: 425px;
+    top: 180px;
+    font-size: 15px;
+}
+.type2{
+    position: absolute;
+    font-size: 12px;
+    left: 885px;
+    top: 110px;
+}
+.phrase2{
+    position: absolute;
+    left: 850px;
+    top: 150px;
+    font-size: 8px;
+}
+.ball2{
+    position: absolute;
+    left: 1225px;
+    top: 193px;
+    width: 13px;
+    height: 13px;
+    background-color: rgb(224, 224, 143);
+    border-radius: 50%;
+    border: 1px solid rgb(112, 70, 160);
+    padding: auto;
+}
+.JS2{
+    position: absolute;
+    left: 1245px;
+    top: 194px;
+    font-size: 13px;
+
+}
+.iconfolder2{
+    position: absolute;
+    left: 850px;
+    top: 121px;
+}
+.iconstar2{
+    position: absolute;
+    left: 850px;
+    top: 190px;
+}
+.iconcabo2{
+    position: absolute;
+    left: 902px;
+    top: 190px;
+}
+.number-3{
+    position: absolute;
+    left: 873px;
+    top: 180px;
+    font-size: 15px;
+}
+.number-4{
+    position: absolute;
+    left: 927px;
+    top: 180px;
+    font-size: 15px;
+}
+.boxlink{
+    position: absolute;
+    height: 270px;
+    width: 220px;
+    top: 250px;
+    left: 18px;
+    border-radius: 15px;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2);
+    background-color: #302F3D;
+
+}
+.MapPin{
+    position: absolute;
+    left: 40px;
+    top: 280px;
+}
+.Brazil{
+    position: absolute;
+    left: 70px;
+    top: 290px;
+    font-size: small;
+}
+.school{
+    position: absolute;
+    left: 40px;
+    top: 320px;
+}
+.UFC{
+    position: absolute;
+    left: 70px;
+    top: 325px;
+    font-size: small;
+}
+.Linkedin{
+    position: absolute;
+    left: 40px;
+    top: 360px;
+}
+.account{
+    position: absolute;
+    left: 70px;
+    top: 365px;
+    font-size: small;
+}
+.engsoft{
+    position: absolute;
+    left: 40px;
+    top: 400px;
+}
+.Software{
+    position: absolute;
+    left: 70px;
+    top: 395px;
+    font-size: small;   
+}
+.boxTec{
+    position: absolute;
+    left: 18px;
+    top: 550px;
+    height: 200px;
+    width: 220px;
+    background-color: #302F3D;
+    border-radius: 15px;
+    bottom: 15%;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2);
+    padding: auto;
+}
+.tec1{
+    position: absolute;
+    width: 70px;
+    height: 25px;
+    left: 50px;
+    top: 620px;
+    border-radius: 20px;
+    background-color: #CB92B1;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2);
+}
+.tec2{
+    position: absolute;
+    width: 70px;
+    height: 25px;
+    left: 140px;
+    top: 620px;
+    border-radius: 20px;
+    background-color: #CB92B1;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2);
+}
+.tec3{
+    position: absolute;
+    width: 70px;
+    height: 25px;
+    left: 50px;
+    top: 660px;
+    border-radius: 20px;
+    background-color: #CB92B1;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2);
+}
+.tec4{
+    position: absolute;
+    width: 70px;
+    height: 25px;
+    left: 140px;
+    top: 660px;
+    border-radius: 20px;
+    background-color: #CB92B1;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2);
+}
+.tec5{
+    position: absolute;
+    width: 70px;
+    height: 25px;
+    left: 50px;
+    top: 700px;
+    border-radius: 20px;
+    background-color: #CB92B1;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2);
+}
+.tec6{
+    position: absolute;
+    width: 70px;
+    height: 25px;
+    left: 140px;
+    top: 700px;
+    border-radius: 20px;
+    background-color: #CB92B1;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2);
+}
+.block1{
+    position: absolute;
+    left: 55px;
+    top: 626px;
+    color: black;
+    font-size: 12px;
+}
+.block2{
+    position: absolute;
+    left: 145px;
+    top: 626px;
+    color: black;
+    font-size: 12px;
+}
+.block3{
+    position: absolute;
+    left: 65px;
+    top: 665px;
+    color: black;
+    font-size: 12px;
+}
+.block4{
+    position: absolute;
+    left: 170px;
+    top: 667px;
+    color: black;
+    font-size: 12px;
+}
+.block5{
+    position: absolute;
+    left: 60px;
+    top: 705px;
+    color: black;
+    font-size: 12px;
+}
+.block6{
+    position: absolute;
+    left: 155px;
+    top: 705px;
+    color: black;
+    font-size: 12px;
+}
+.title{
+    position: absolute;
+    left: 40px;
+    top: 580px;
+    color: #837E9F;
+    font-size: larger;
+}
+.boxposts{
+    position: absolute;
+    width: 1000px;
+    height: 50px;
+    top: 240px;
+    left: 320px;
+    border-radius: 15px;
+    background-color: #302F3D;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2);
+}
+.posts{
+    position: absolute;
+    top: 235px;
+    left: 350px;
+    font-size: 15px;
+}
+.boxinfo{
+    position: absolute;
+    width: 1000px;
+    height: 210px;
+    top: 310px;
+    left: 320px;
+    border-radius: 15px;
+    background-color: #302F3D;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2);
+}
+.perfillinkedin{
+    position: absolute;
+    left: 350px;
+    top: 340px;
+}
+.nomecompleto{
+    position: absolute;
+    left: 550px;
+    top: 340px;
+}
+.Mylinkedin{
+    position: absolute;
+    left: 550px;
+    top: 400px;
+}
+.hastags{
+    position: absolute;
+    left: 550px;
+    top: 490px;
+    font-size: small;
+}
